@@ -1,7 +1,7 @@
 //Statements
 //console.log('Hello world');
 
-//Obs...Node is a runtime enviroment for executting javascript code
+//Obs...Node is a runtime enviroment for executing javascript code
 
 /*Variables
     var | let;
@@ -55,7 +55,7 @@ console.log(selectedColors.length) //returns the size of the array
 
 //Functions
 
-//Performing a tak
+//Performing a task
 function greet(name, lastName){
     console.log("Hello " + name);
 }
